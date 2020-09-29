@@ -1,3 +1,3 @@
 # web-frontend-react
 
-experiment react
+only for experiment react
